@@ -50,7 +50,7 @@ header{
 }
 
 .btn{
-    background: #DD0000;
+    background: #197278;
     border-radius: 5px;
     padding: 16px 25px;
     text-decoration: none;
@@ -112,7 +112,7 @@ main{
     
 }
 .marked{
-    background-color: #DD0000;
+    background-color: #197278;
     color: #fff;
 }
 /* blog styles */
